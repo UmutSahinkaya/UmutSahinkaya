@@ -1,6 +1,6 @@
 ### <div align="center"> <h2>👋 Hi, I’m Umut </h2>
 
-### <h3 align="center"> 💻 Full-Stack Developer & 💚 Innovation <h3/>
+### <h3 align="center"> 💻 Full-Stack Developer & 💚 Mobil Developer<h3/>
 
 - 👀 I’m interested in Back-End and Front-End technology, engineering.
 - 🌱 I’m currently learning Back-End and Frontend
