@@ -21,24 +21,24 @@
 </div>
 
 ###
+
 <div align="center">
 <h2> 🛠️ Technologies & Tools </h2>
 </div>
 <br/>
 <div align="center">  
-![RabbitMQ](/images/rabbitmq.png)  
-![Redis](/images/redis.svg)  
-![Docker](/images/docker.svg)  
-![MQTT](/images/mqtt.png)  
-![CQRS](/images/cqrs.png)  
-![ASP.NET Core](/images/dotnetcore.png)  
-![Entity Framework Core](/images/efcore.png)  
-![FluentValidation](/images/fluentvalidation.png)  
-![Automapper](/images/automapper.png)  
+![RabbitMQ](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/rabbitmq.png)  
+![Redis](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/redis.svg)  
+![Docker](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/docker.svg)  
+![MQTT](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/mqtt.png)  
+![CQRS](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/cqrs.png)  
+![ASP.NET Core](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/dotnetcore.png)  
+![Entity Framework Core](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/efcore.png)  
+![FluentValidation](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/fluentvalidation.png)  
+![Automapper](https://github.com/UmutSahinkaya/UmutSahinkaya/blob/main/images/automapper.png)  
 </div>
 
 <br />
-
 
 ### 🚀 Advanced Microservices Patterns
 - **Event Sourcing:** Recording all changes to application state as a sequence of events.
