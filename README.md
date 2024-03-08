@@ -1,17 +1,17 @@
-### <div align="center"> <h2>👋 Hi, I’m Umut </h2>
+### <div align="center"> <h2>👋 Hello, I'm Umut </h2>
 
-### <h3 align="center"> 💻 Full-Stack Developer 💚 <h3/>
+### <h3 align="center"> 💻 Full-Stack Developer | Software Development 💚 <h3/>
 
-- 👀 I’m interested in Back-End and Front-End technology, engineering.
-- 🌱 I’m currently learning Back-End and Frontend
-- 💞️ I’m looking to collaborate on innovation, Software engineering projects.
-- 📫 How to reach me umutsahinkaya1@gmail.com
+- 👀 I'm interested in Backend and Frontend technologies, software engineering.
+- 🌱 I'm currently learning about Backend and Frontend development.
+- 💞️ I'm open to collaborating on innovative software engineering projects.
+- 📫 How to reach me: umutsahinkaya1@gmail.com
 </div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/umutsahinkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="UmutŞahinkaya" height="30" width="40" /></a> « »
 <a href="https://www.hackerrank.com/umutsahinkaya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="UmutŞahinkaya" height="30" width="40" /></a> « »
- </div>
+</div>
 
 <br/>
 <div align="center">
@@ -23,21 +23,73 @@
 ###
 
 <div align="center">
-<h2> 🛠️ Languages&Tools </h2>
+<h2> 🛠️ Technologies & Tools </h2>
 </div>
 <br/>
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="Git" height="50" /></a>
-  
-<a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Git" height="50" /></a>
-
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq.png" alt="RabbitMQ" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://mqtt.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mqtt.png" alt="MQTT" height="50" /></a>  
+<a href="https://microservices.io/patterns/data/cqrs.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cqrs.png" alt="CQRS" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/dependency-injection" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="ASP.NET Core" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/efcore.png" alt="Entity Framework Core" height="50" /></a>  
+<a href="https://fluentvalidation.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fluentvalidation.png" alt="FluentValidation" height="50" /></a>
+<a href="https://automapper.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/automapper.png" alt="Automapper" height="50" /></a>  
 </div>
 
 <br />
+
+### 🚀 Advanced Microservices Patterns
+- **Event Sourcing:** Recording all changes to application state as a sequence of events.
+- **Distributed Transactions:** Managing transactions across multiple microservices.
+- **Service Mesh Architecture:** Implementing communication control between microservices.
+- **API Gateway:** Centralized entry point for managing and securing APIs.
+
+### 🏢 DDD-focused Clean Architecture Implementation
+- **Domain-Driven Design (DDD):** Modeling the software based on the business domain.
+- **Clean Architecture:** Separating concerns and dependencies in a maintainable structure.
+- **Entities, Value Objects, Aggregates:** Building rich domain models with proper encapsulation.
+
+### 📚 SOLID and Clean Code Techniques
+- **SOLID Principles:** Embracing Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion principles.
+- **Clean Code Practices:** Writing code that is easy to understand, maintain, and extend.
+
+### 🔄 Ultra-Advanced Synchronous and Asynchronous Repository Implementation
+- **Asynchronous Repository:** Implementing repositories that support asynchronous operations.
+- **Dynamic Search Implementation:** Building dynamic search functionality for flexible querying.
+
+### 🔄 Advanced Mapping and AutoMapper Implementation
+- **Response-Request Pattern Mapping:** Implementing mappings between DTOs and domain entities.
+- **Automapper:** Simplifying object-to-object mapping.
+
+### 🌐 Advanced Entity Framework Implementation
+- **Best Practice-oriented Entity Framework:** Applying best practices for efficient data access.
+- **API Implementation:** Developing RESTful APIs with proper routing and versioning.
+
+### ⚙️ Extension Writing Techniques
+- **Extension Methods:** Utilizing extension methods for enhanced functionality.
+- **Multiple and Related Domain Modeling:** Implementing models that represent complex relationships.
+
+### 🌟 Advanced Mapping Implementation
+- **Advanced Mapping Techniques:** Utilizing advanced mapping strategies for complex scenarios.
+- **Migration Implementation:** Managing database schema changes through migrations.
+
+### 📏 Business Rule and Clean Code Writing Techniques
+- **Clean Code Techniques:** Following clean code principles for readability and maintainability.
+- **Business Rule Implementation:** Ensuring business rules are effectively implemented.
+
+### 🚨 Global Error Handling
+- **Global Error Management:** Handling errors consistently across the application.
+- **Pipeline Writing Techniques:** Structuring code using pipeline patterns for modularization.
+
+### 🔒 Security and JWT Implementation
+- **Security Best Practices:** Implementing secure coding practices.
+- **JWT Implementation:** Securing and managing user authentication using JSON Web Tokens.
+
+### 📧 Mailing Implementation
+- **Mailing Services:** Integrating mailing services for notifications.
+- **Test-Driven Infrastructure Development:** Writing tests to ensure code reliability and functionality.
+
+### 🧪 Test-Focused Infrastructure Development
+- **Moq Implementation:** Employing Moq for effective unit testing.
