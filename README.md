@@ -22,27 +22,7 @@
 
 ###
 
-<div align="center">
-<h2> 🛠️ Technologies & Tools </h2>
-</div>
-<br/>
-<div align="center">
-<h2> 🛠️ Technologies & Tools </h2>
-</div>
-<br/>
-<div align="center">  
-![RabbitMQ](./images/rabbitmq.png)  
-![Redis](./images/redis.png)  
-![Docker](./images/docker.png)  
-![MQTT](./images/mqtt.png)  
-![CQRS](./images/cqrs.png)  
-![ASP.NET Core](./images/dotnetcore.png)  
-![Entity Framework Core](./images/efcore.png)  
-![FluentValidation](./images/fluentvalidation.png)  
-![Automapper](./images/automapper.png)  
-</div>
 
-<br />
 
 ### 🚀 Advanced Microservices Patterns
 - **Event Sourcing:** Recording all changes to application state as a sequence of events.
