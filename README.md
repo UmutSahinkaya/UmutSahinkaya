@@ -19,18 +19,42 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutSahinkaya&layout=compact&theme=tokyolight"  />
 </a>
 </div>
+<div align="center">
+  <h2> 🛠️ Technologies & Tools </h2>
+</div>
+<br/>
+<div align="center">  
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/rabbitmq.png" alt="RabbitMQ" height="50" />
+  </a>  
+  <a href="https://redis.io/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/redis.svg" alt="Redis" height="50" />
+  </a>  
+  <a href="https://www.docker.com/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/docker.svg" alt="Docker" height="50" />
+  </a>  
+  <a href="https://mqtt.org/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/mqtt.png" alt="MQTT" height="50" />
+  </a>  
+  <a href="https://microservices.io/patterns/data/cqrs.html" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/cqrs.png" alt="CQRS" height="50" />
+  </a>  
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/dependency-injection" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/dotnetcore.png" alt="ASP.NET Core" height="50" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/efcore.png" alt="Entity Framework Core" height="50" />
+  </a>  
+  <a href="https://fluentvalidation.net/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/fluentvalidation.png" alt="FluentValidation" height="50" />
+  </a>
+  <a href="https://automapper.org/" target="_blank">
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/automapper.png" alt="Automapper" height="50" />
+  </a>  
+</div>
+<br />
 
-### 🛠️ Technologies & Tools
 
-![RabbitMQ](./images/rabbitmq.png)  
-![Redis](./images/redis.svg)  
-![Docker](./images/docker.svg)  
-![MQTT](./images/mqtt.png)  
-![CQRS](./images/cqrs.png)  
-![ASP.NET Core](./images/dotnetcore.png)  
-![Entity Framework Core](./images/efcore.png)  
-![FluentValidation](./images/fluentvalidation.png)  
-![Automapper](./images/automapper.png)
 
 ### 🚀 Advanced Microservices Patterns
 - **Event Sourcing:** Recording all changes to application state as a sequence of events.
