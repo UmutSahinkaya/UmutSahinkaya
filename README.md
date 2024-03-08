@@ -28,10 +28,10 @@
     <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/rabbitmq.png" alt="RabbitMQ" height="50" />
   </a>  
   <a href="https://redis.io/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/redis.svg" alt="Redis" height="50" />
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/redis.png" alt="Redis" height="50" />
   </a>  
   <a href="https://www.docker.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/docker.svg" alt="Docker" height="50" />
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/docker.png" alt="Docker" height="50" />
   </a>  
   <a href="https://mqtt.org/" target="_blank">
     <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/mqtt.png" alt="MQTT" height="50" />
@@ -49,7 +49,7 @@
     <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/fluentvalidation.png" alt="FluentValidation" height="50" />
   </a>
   <a href="https://automapper.org/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/automapper.png" alt="Automapper" height="50" />
+    <img style="margin: 10px" src="https://github.com/UmutSahinkaya/UmutSahinkaya/raw/main/images/automapper.jpeg" alt="Automapper" height="50" />
   </a>  
 </div>
 <br />
