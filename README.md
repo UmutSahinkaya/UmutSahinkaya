@@ -27,15 +27,15 @@
 </div>
 <br/>
 <div align="center">  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq.png" alt="RabbitMQ" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://mqtt.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mqtt.png" alt="MQTT" height="50" /></a>  
-<a href="https://microservices.io/patterns/data/cqrs.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cqrs.png" alt="CQRS" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/dependency-injection" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="ASP.NET Core" height="50" /></a>
-<a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/efcore.png" alt="Entity Framework Core" height="50" /></a>  
-<a href="https://fluentvalidation.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fluentvalidation.png" alt="FluentValidation" height="50" /></a>
-<a href="https://automapper.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/automapper.png" alt="Automapper" height="50" /></a>  
+![RabbitMQ](./images/rabbitmq.png)  
+![Redis](./images/redis.svg)  
+![Docker](./images/docker.svg)  
+![MQTT](./images/mqtt.png)  
+![CQRS](./images/cqrs.png)  
+![ASP.NET Core](./images/dotnetcore.png)  
+![Entity Framework Core](./images/efcore.png)  
+![FluentValidation](./images/fluentvalidation.png)  
+![Automapper](./images/automapper.png)  
 </div>
 
 <br />
